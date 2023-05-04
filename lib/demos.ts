@@ -18,7 +18,7 @@ export const demos: { name: string; items: Item[] }[] = [
       {
         name: 'Grouped Layouts',
         slug: 'route-groups',
-        id: 'groupedLayouts',
+        id: 'wrongLayouts',
         description: 'Organize routes without affecting URL paths',
       },
     ],
